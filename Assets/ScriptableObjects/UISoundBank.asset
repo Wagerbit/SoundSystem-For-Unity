@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3b11b8528bf6b84abd5e617564524bf, type: 3}
+  m_Name: UISoundBank
+  m_EditorClassIdentifier: 
+  UISoundList:
+  - uISoundType: 0
+    uISound: {fileID: 8300000, guid: 7a5bcca73ee464e4db65b9f7971c56ae, type: 3}
+  - uISoundType: 1
+    uISound: {fileID: 8300000, guid: e0d13a4b54b267149a5b62c6f9d0cb66, type: 3}
